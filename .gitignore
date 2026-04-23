@@ -1,0 +1,5 @@
+build/
+*.exe
+*.obj
+*.bak
+network_events.ndjson
