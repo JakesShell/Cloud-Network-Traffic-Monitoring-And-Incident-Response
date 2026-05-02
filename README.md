@@ -8,6 +8,15 @@ The project is designed to reflect how cloud support engineers, SOC analysts, an
 
 ---
 
+
+---
+
+## Dashboard Preview
+
+The screenshot below shows the monitor running a simulated cloud traffic investigation, including request threshold checks, alert triggers, severity classification, incident categories, and completion output.
+
+![Traffic Monitor Dashboard](traffic-monitor-dashboard.png)
+
 ## Simulated Environment
 
 - Cloud-Hosted Web Application
@@ -108,3 +117,4 @@ Cloud-Network-Traffic-Monitoring-And-Incident-Response/
 |-- CMakeLists.txt
 |-- .gitignore
 |-- README.md
+
